@@ -3,7 +3,7 @@ Start up landing page for a fictional application named Hooman Finder that allow
 
 ## Deployment
 [Project](https://ravi1998-source.github.io/BootStrap/)
-![Alt text](https://github.com/ravi1998-source/Simon-Game/blob/main/ok.png)
+![Alt text](https://github.com/ravi1998-source/BootStrap/blob/main/Cover%20page.png)
 
 ## Built With
 * HTML
